@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentar untuk nikahyuk	</title>
+	<atom:link href="https://iklaspadli.github.io/Yunis-iklas/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://iklaspadli.github.io/Yunis-iklas</link>
+	<description>Moto situs Anda bisa diletakkan di sini</description>
+	<lastBuildDate>Sun, 23 Oct 2022 09:57:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>
+		Komentar di yunis-iklas oleh Iklaspadli		</title>
+		<link>https://iklaspadli.github.io/Yunis-iklas/yunis-iklas/#comment-3</link>
+
+		<dc:creator><![CDATA[Iklaspadli]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 08:46:39 +0000</pubDate>
+		<guid isPermaLink="false">https://iklaspadli.github.io/Yunis-iklas/?p=13#comment-3</guid>
+
+					<description><![CDATA[Oke]]></description>
+			<content:encoded><![CDATA[<p>Oke</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Komentar di Halo dunia! oleh Seorang Komentator WordPress		</title>
+		<link>https://iklaspadli.github.io/Yunis-iklas/halo-dunia/#comment-1</link>
+
+		<dc:creator><![CDATA[Seorang Komentator WordPress]]></dc:creator>
+		<pubDate>Sat, 22 Oct 2022 13:09:59 +0000</pubDate>
+		<guid isPermaLink="false">https://iklaspadli.github.io/Yunis-iklas/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hai, ini merupakan sebuah komentar.
+Untuk mulai memoderasi, mengedit, dan menghapus komentar, silakan kunjungi layar Komentar di dasbor.
+Avatar komentator diambil dari &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hai, ini merupakan sebuah komentar.<br />
+Untuk mulai memoderasi, mengedit, dan menghapus komentar, silakan kunjungi layar Komentar di dasbor.<br />
+Avatar komentator diambil dari <a href="https://en.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
